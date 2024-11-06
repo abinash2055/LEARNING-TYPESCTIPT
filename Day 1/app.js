@@ -1,10 +1,10 @@
 "use strict";
-var a = 12;
+let p = 12;
 function abcd() {
-    console.log(a);
+    console.log(p);
     let x = 33;
     let y = 67;
     console.log(x);
     console.log(y);
 }
-var b = 34;
+var h = 34;
